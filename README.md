@@ -1,10 +1,10 @@
 # Simple Video Player
 
-![Latest Version: `v1.2.1`](https://img.shields.io/badge/latest_version-v1.2.1-green)
+[Latest Version: `v1.2.1`](https://img.shields.io/badge/latest_version-v1.2.1-green)
 
 ## Showcase
 
-![Video Player Showcase](https://realyozha.github.io/SimpleVideoPlayer/)
+[Video Player Showcase](https://realyozha.github.io/SimpleVideoPlayer)
 
 ## Download & set your own video
 
@@ -15,4 +15,5 @@
 
 ## Credits
 
-Video player library used: ![library](https://github.com/devmanorg/video-player-jslib)
+Video player library used: [library](https://github.com/devmanorg/video-player-jslib)
+
